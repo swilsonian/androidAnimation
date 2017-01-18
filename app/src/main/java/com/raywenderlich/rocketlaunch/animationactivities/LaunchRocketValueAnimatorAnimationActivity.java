@@ -67,7 +67,8 @@ public class LaunchRocketValueAnimatorAnimationActivity extends BaseAnimationAct
 
 
 
-//      // 3
+
+      // cann also try https://github.com/skyfishjy/android-ripple-background
       AnimatorSet set1a =
               (AnimatorSet) AnimatorInflater.loadAnimator(this, R.animator.scale);
       set1a.setTarget(mRocket);
